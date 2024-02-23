@@ -1,0 +1,23 @@
+#head{
+    padding: 25px;
+    margin: 0 auto;
+    width: 90%;
+}
+.input{
+    padding: 16px 15px;
+    width: 60%;
+    border: solid 1px;
+    border-radius: 5%;
+    margin: auto;
+}
+#page{
+    display: flex;
+    grid-template-columns: 30% 30%;
+    padding: 20px;
+}
+#form{
+    border: solid 1px;
+    width: 30%;
+    margin: 3px 30px;
+    text-decoration: dotted;
+}
